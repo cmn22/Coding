@@ -3,3 +3,6 @@
 
 # Ignore Keynote files
 *.key
+
+# Ignore AGENTS file
+AGENTS.md
