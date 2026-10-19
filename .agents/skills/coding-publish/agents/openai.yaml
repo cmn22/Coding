@@ -1,0 +1,4 @@
+interface:
+  display_name: "Coding Publisher"
+  short_description: "Publish coding notebooks, covers, and tracker rows"
+  default_prompt: "Use $coding-publish to prepare, verify, and publish this coding problem, export its Keynote cover as PNG, and update my tracker."
